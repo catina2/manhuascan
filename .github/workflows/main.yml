@@ -1,6 +1,6 @@
 name: Android CI
 
-on:
+on: [pull_request, workflow_dispatch] 
   push:
     branches:
       - main
