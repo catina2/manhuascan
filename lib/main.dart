@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_applovin_max/flutter_applovin_max.dart';
-import 'home.dart';
+import 'home_page.dart';
 
 void main() {
   runApp(const MyApp());
